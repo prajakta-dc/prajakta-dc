@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on innovative projects 
-- 📫 How to reach me ...
+- 📫 How to reach me linked.com/in/prajakta-d-chavan/
 
 <!---
 prajakta-dc/prajakta-dc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
